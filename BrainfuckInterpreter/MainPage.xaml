@@ -37,11 +37,9 @@ Commands:
 		<controls:Pivot Title="Brainfuck Interpreter">
 			<!--Pivot item one-->
 			<controls:PivotItem Header="editor">
-                <TextBox TextWrapping="Wrap" Text="enter your code here
-i dont think i need to tell you how to use brainfuck
-the exit character is an exclamation mark
+                <TextBox TextWrapping="Wrap" Text="
 ++++++++++[&gt;+++++++&gt;++++++++++&gt;+++&gt;+&lt;&lt;&lt;&lt;-]&gt;++.&gt;+.+++++++..+++.&gt;++.&lt;&lt;+++++++++++++++.&gt;.+++.------.--------.&gt;+.&gt;.
-!" BorderThickness="0" Name="txtSource" />
+" BorderThickness="0" Name="txtSource" />
 				<!--Double line list with text wrapping-->
 			</controls:PivotItem>
 
